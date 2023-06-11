@@ -7,14 +7,14 @@
 }
 
 .about {
-    flex:1;
+    flex: 1;
     padding-left: 2%;
 
 }
 
 .photo {
-    flex:2;
-    width:30%;
+    flex: 2;
+    width: 30%;
     padding-right: 2%;
 }
 
@@ -23,7 +23,7 @@
     display: flex;
     flex-direction: column;
 
-    width:30%;
+    width: 30%;
     align-items: center;
 }
 
@@ -36,9 +36,11 @@
 
     text-align: center;
 }
-.about_size{
+
+.about_size {
     font-size: 120%;
 }
+
 .about_price {
     font-size: 180%;
 }
@@ -50,6 +52,45 @@
     background-color: rgba(24, 24, 24, 0.29);
     color: #ffffff;
     border: 2px solid #000000; /* Green */
+}
+
+@media (max-width: 700px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .photo {
+        width: 100%;
+    }
+
+    .info_container {
+        width: 100%;
+    }
+
+}
+
+
+@media (max-width: 500px) {
+    .about_name {
+        font-size: 130%;
+    }
+
+    .about_title {
+        font-size: 100%;
+
+    }
+
+    .about_size {
+        font-size: 100%;
+    }
+
+    .about_price {
+        font-size: 110%;
+    }
+
+    .button {
+        font-size: 130%;
+    }
 }
 
 
