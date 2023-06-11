@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    justify-content: space-around;
+}
+
+.about {
+    flex:1;
+    padding-left: 2%;
+
+}
+
+.photo {
+    flex:2;
+    width:30%;
+    padding-right: 2%;
+}
+
+
+.info_container {
+    display: flex;
+    flex-direction: column;
+
+    width:30%;
+    align-items: center;
+}
+
+.about_name {
+    font-size: 200%;
+}
+
+.about_title {
+    font-size: 120%;
+
+    text-align: center;
+}
+.about_size{
+    font-size: 120%;
+}
+.about_price {
+    font-size: 180%;
+}
+
+.button {
+    border-radius: 10px;
+    padding: 2px 5px;
+    font-size: 180%;
+    background-color: rgba(24, 24, 24, 0.29);
+    color: #ffffff;
+    border: 2px solid #000000; /* Green */
+}
+
+
+

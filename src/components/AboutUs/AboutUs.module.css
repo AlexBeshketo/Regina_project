@@ -1,0 +1,47 @@
+
+.container_main {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text {
+    flex-basis: 50%;
+
+    font-size: x-large;
+}
+
+
+@media (max-width: 700px) {
+    .text {
+        font-size:larger;
+    }
+}
+
+
+@media (max-width: 559px) {
+    .container_main {
+        flex-direction: column-reverse;
+    }
+    .text {
+        flex-basis: 70%;
+        margin-top: 5%;
+    }
+}
+
+@media (max-width: 350px) {
+    .text {
+        font-size: medium;
+    }
+
+    .photo img {
+        width:75%;
+        margin: 0 auto;
+    }
+}
+
+
+
+
