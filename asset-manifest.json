@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/Regina_project/static/css/main.97d75dcb.css",
-    "main.js": "/Regina_project/static/js/main.c5da9a6d.js",
+    "main.css": "/Regina_project/static/css/main.b3deb1e6.css",
+    "main.js": "/Regina_project/static/js/main.b7932215.js",
     "static/js/787.28cb0dcd.chunk.js": "/Regina_project/static/js/787.28cb0dcd.chunk.js",
     "static/media/purpurinis vakaras2.jpg": "/Regina_project/static/media/purpurinis vakaras2.d861c40ecf9e9c3278f3.jpg",
     "static/media/vandenynas.jpg": "/Regina_project/static/media/vandenynas.2ea59d891f94a9e8b544.jpg",
+    "static/media/jaukumas.jpg": "/Regina_project/static/media/jaukumas.02e3703dd37c93798794.jpg",
     "static/media/lietaus_nnupraustos_1.jpg": "/Regina_project/static/media/lietaus_nnupraustos_1.db4f9c3bfae2608f7d05.jpg",
+    "static/media/magnolijos.jpg": "/Regina_project/static/media/magnolijos.4d59cd3caf372a43e0bb.jpg",
+    "static/media/aukso_paliestos.jpg": "/Regina_project/static/media/aukso_paliestos.94737ca16a6a14e87556.jpg",
+    "static/media/gelesnaktyje.jpg": "/Regina_project/static/media/gelesnaktyje.23806d96bee2eb95f965.jpg",
+    "static/media/karališki_irisai_2.jpg": "/Regina_project/static/media/karališki_irisai_2.f5e7f96ff3e4387719fb.jpg",
+    "static/media/saulelydzio_2.jpg": "/Regina_project/static/media/saulelydzio_2.a36d24327f7d0ae6139e.jpg",
     "static/media/pinavijos.jpg": "/Regina_project/static/media/pinavijos.3ba2ced11cc7223f7c41.jpg",
+    "static/media/elegancija_2.jpg": "/Regina_project/static/media/elegancija_2.e864eaf11cbe54286001.jpg",
+    "static/media/trys_norai.jpg": "/Regina_project/static/media/trys_norai.445a75c878d2e6bb6b32.jpg",
     "static/media/Amstonish.ttf": "/Regina_project/static/media/Amstonish.f3505e0e42dd9725ac5f.ttf",
     "static/media/Anastacia.otf": "/Regina_project/static/media/Anastacia.47f02741ebf811c2b650.otf",
     "index.html": "/Regina_project/index.html",
-    "main.97d75dcb.css.map": "/Regina_project/static/css/main.97d75dcb.css.map",
-    "main.c5da9a6d.js.map": "/Regina_project/static/js/main.c5da9a6d.js.map",
+    "main.b3deb1e6.css.map": "/Regina_project/static/css/main.b3deb1e6.css.map",
+    "main.b7932215.js.map": "/Regina_project/static/js/main.b7932215.js.map",
     "787.28cb0dcd.chunk.js.map": "/Regina_project/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97d75dcb.css",
-    "static/js/main.c5da9a6d.js"
+    "static/css/main.b3deb1e6.css",
+    "static/js/main.b7932215.js"
   ]
 }
