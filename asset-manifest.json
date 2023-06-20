@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Regina_project/static/css/main.fc24de3e.css",
-    "main.js": "/Regina_project/static/js/main.64cbee53.js",
+    "main.css": "/Regina_project/static/css/main.97d75dcb.css",
+    "main.js": "/Regina_project/static/js/main.c5da9a6d.js",
     "static/js/787.28cb0dcd.chunk.js": "/Regina_project/static/js/787.28cb0dcd.chunk.js",
     "static/media/purpurinis vakaras2.jpg": "/Regina_project/static/media/purpurinis vakaras2.d861c40ecf9e9c3278f3.jpg",
     "static/media/vandenynas.jpg": "/Regina_project/static/media/vandenynas.2ea59d891f94a9e8b544.jpg",
     "static/media/lietaus_nnupraustos_1.jpg": "/Regina_project/static/media/lietaus_nnupraustos_1.db4f9c3bfae2608f7d05.jpg",
+    "static/media/pinavijos.jpg": "/Regina_project/static/media/pinavijos.3ba2ced11cc7223f7c41.jpg",
     "static/media/Amstonish.ttf": "/Regina_project/static/media/Amstonish.f3505e0e42dd9725ac5f.ttf",
     "static/media/Anastacia.otf": "/Regina_project/static/media/Anastacia.47f02741ebf811c2b650.otf",
     "index.html": "/Regina_project/index.html",
-    "main.fc24de3e.css.map": "/Regina_project/static/css/main.fc24de3e.css.map",
-    "main.64cbee53.js.map": "/Regina_project/static/js/main.64cbee53.js.map",
+    "main.97d75dcb.css.map": "/Regina_project/static/css/main.97d75dcb.css.map",
+    "main.c5da9a6d.js.map": "/Regina_project/static/js/main.c5da9a6d.js.map",
     "787.28cb0dcd.chunk.js.map": "/Regina_project/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc24de3e.css",
-    "static/js/main.64cbee53.js"
+    "static/css/main.97d75dcb.css",
+    "static/js/main.c5da9a6d.js"
   ]
 }
